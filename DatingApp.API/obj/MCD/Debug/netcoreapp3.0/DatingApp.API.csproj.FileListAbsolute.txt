@@ -84,3 +84,11 @@ C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\obj\MCD\De
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\obj\MCD\Debug\netcoreapp3.0\DatingApp.API.csproj.CopyComplete
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\obj\MCD\Debug\netcoreapp3.0\DatingApp.API.dll
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\obj\MCD\Debug\netcoreapp3.0\DatingApp.API.pdb
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
