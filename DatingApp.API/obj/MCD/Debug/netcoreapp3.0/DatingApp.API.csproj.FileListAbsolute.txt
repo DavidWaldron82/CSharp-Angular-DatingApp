@@ -92,3 +92,9 @@ C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\De
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Data\UserSeedData.json
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\david_000\Desktop\Code\cSharp\Entity\DatingApp\DatingApp.API\bin\MCD\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
